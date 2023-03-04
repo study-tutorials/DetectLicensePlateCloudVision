@@ -11,6 +11,7 @@ All the processing related to the Cloud Vision API is being done using a backend
 
 ### Interface
 
-![Example]()
+![Example](https://user-images.githubusercontent.com/31932673/222916805-40a37f8f-e39e-43c2-946a-3197981e9fcb.PNG)
+
 Default picture by <a href="https://unsplash.com/es/@maxim_mushnikov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Mushnikov</a> donwloaded from <a href="https://unsplash.com/pt-br/fotografias/UqEUqXlF0wM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
